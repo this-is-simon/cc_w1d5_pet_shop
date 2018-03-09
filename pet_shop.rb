@@ -2,9 +2,8 @@ def pet_shop_name(shop)
   shop[:name]
 end
 
-
-
-
+def total_cash()
+end
 
 def add_two_things(x, y)
   return x + y
